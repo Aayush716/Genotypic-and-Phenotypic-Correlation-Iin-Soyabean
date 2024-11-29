@@ -21,11 +21,6 @@ matplotlib
 
 The scripts train and test model with 10 fold cross validation and plot a comparison of genotype contribution using saliency map value and Wald test value.
 
-* **polytest.txt** - *Genotype contribution using Wald test score. Run with SoyNAM R package.*
-* **saliency_value.txt** - *Genotype contribution calculated using saliency map approach.*
-* **height.py** - *Executive scripts.*
-* **IMP_height.txt** - *Inputs of imputed genotype matrix.*
-* **QA_height.txt** - *Inputs of quality assured non-imputed genotype matrix.*
 
 ```
 cd HEIGHT
