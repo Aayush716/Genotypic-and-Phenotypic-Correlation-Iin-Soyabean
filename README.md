@@ -4,6 +4,8 @@ We provide a deep-learning method to predict five 	quantitative traits (Yield, P
 We also applied saliency map approach measure phenotype contribution for genome wide association study. 
 The program is implemented using Keras2.0 and Tensorflow
 
+In my research, I transformed genotypic data for analysis and applied machine learning techniques, including Random Forest (RF), Support Vector Regression (SVR), and deep learning with a ResNet architecture. These methods were compared with statistical approaches to identify Quantitative Trait Loci (QTLs)—soybean SNPs potentially linked to key phenotypic traits like oil content. This combination of machine learning and statistical analysis offered valuable insights into genetic markers, contributing to advancements in agricultural genetics.
+
 ### Prerequisites
 
 Python packages are required,
