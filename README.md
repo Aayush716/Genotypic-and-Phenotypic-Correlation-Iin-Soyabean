@@ -1,8 +1,14 @@
 # Genomic selection using deep learning and saliency map
 
-We provide a deep-learning method to predict five 	quantitative traits (Yield, Protein, Oil, Moisture and Plant height) of Soyabean dataset.
-We also applied saliency map approach measure phenotype contribution for genome wide association study. 
-The program is implemented using Keras2.0 and Tensorflow
+We provide a deep-learning method to predict five quantitative traits (Yield, Protein, Oil, Moisture and Plant height) of Soyabean dataset.
+We also applied feature importance to measure phenotype contribution for genome wide association study. 
+The program is implemented using ML Approaches
+
+Highlights of models
+1) Support Vector Regression
+2) My varaint of SVR from scratch
+3) Attention + SVR
+4) Kernel ridge regression
 
 In my research, I transformed genotypic data for analysis and applied machine learning techniques, including Random Forest (RF), Support Vector Regression (SVR), and deep learning with a ResNet architecture. These methods were compared with statistical approaches to identify Quantitative Trait Loci (QTLs)—soybean SNPs potentially linked to key phenotypic traits like oil content. This combination of machine learning and statistical analysis offered valuable insights into genetic markers, contributing to advancements in agricultural genetics.
 
